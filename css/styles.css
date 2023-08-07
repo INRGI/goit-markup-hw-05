@@ -378,7 +378,6 @@ rgba(46, 47, 66, 0.7)), url(../images/main_page/hero-bg.jpg);
     justify-content: center;
     align-items: center;
     padding: 8px 24px;
-    gap: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -391,6 +390,10 @@ rgba(46, 47, 66, 0.7)), url(../images/main_page/hero-bg.jpg);
 .footer-button:hover,
 .footer-button:focus{
     background-color: var(--ocean);
+}
+
+.icon-footer{
+    margin-left: 16px;
 }
 /**
   |============================
